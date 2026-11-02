@@ -1,15 +1,23 @@
-# Hossain Ahmed 👋
+# Hey, I'm Hossain Ahmed!
 
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Hossain Ahmed - Engineering and Technology" />
+  <img src="./assets/profile-banner.png" width="100%" alt="Hossain Ahmed - CUET Engineering Profile" />
 </p>
 
-<h3 align="center">
-  Mechatronics & Industrial Engineering Student | Python Developer
-</h3>
+<h2 align="center">
+  Mechatronics & Industrial Engineering Student @ CUET
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+Python+%26+Software+Development;Exploring+Robotics+%26+Automation;Building+Practical+Engineering+Projects;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <b>Engineering | Programming | Robotics | Automation</b>
+</p>
+
+<p align="center">
+  Learning, building, and turning ideas into practical solutions.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Exploring+Python+%26+Software+Development;Learning+Robotics+%26+Automation;Building+Practical+Engineering+Projects;Growing+as+an+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
