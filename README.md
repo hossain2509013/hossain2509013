@@ -63,25 +63,7 @@ I build practical full-stack products with Python at the core — combining back
 - 📈 Learning more advanced engineering patterns and deployment workflows
 - 🤝 Open to meaningful collaborations and software projects
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossain2509013&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain2509013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## Featured Work
-
-- Building end-to-end software with a backend-first approach
-- Focused on products that are useful, efficient, and cleanly designed
-- Combining Python, web tech, and full-stack problem solving to create practical solutions
-
-## Connect
-
-Let’s build something useful together.
+## Socials
 
 - GitHub: https://github.com/hossain2509013
 - X: https://x.com/hossain2509013
@@ -91,11 +73,6 @@ Let’s build something useful together.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hossain2509013&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </p>
-
-
-
-
-
 
 
 
