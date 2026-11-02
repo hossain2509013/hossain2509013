@@ -8,9 +8,10 @@ I build practical full-stack products with Python at the core — combining back
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossain2509013)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hossain2509013)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hossain2509013)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u2509013@student.cuet.ac.bd)
 
 </div>
 
@@ -82,13 +83,22 @@ I build practical full-stack products with Python at the core — combining back
 
 Let’s build something useful together.
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 [Email](mailto:your-email@example.com)
+- GitHub: https://github.com/hossain2509013
+- X: https://x.com/hossain2509013
+- Facebook: https://www.facebook.com/hossain2509013
+- Email: u2509013@student.cuet.ac.bd
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hossain2509013&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </p>
+
+
+
+
+
+
+
+
 
 
 <!--
