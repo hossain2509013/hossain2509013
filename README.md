@@ -42,7 +42,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an undergraduate student at **Chittagong University of Engineering & Technology (CUET)**, pursuing a degree in **Mechatronics and Industrial Engineering (MIE)**.
+I'm an undergraduate student at **Chittagong University of Engineering & Technology (CUET)**, pursuing my **Bachelor of Science (B.Sc)** degree in **Mechatronics and Industrial Engineering (MIE)**.
 
 I'm interested in the intersection of programming and engineering: how software, intelligent systems, and automation can solve practical problems.
 
