@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Hossain Ahmed - Mechatronics & Industrial Engineering, CUET" width="100%">
-</p>
-
-<p align="center">
   <img
     src="./assets/github-profile-banner.png"
     alt="Hossain Ahmed | Mechatronics & Industrial Engineering at CUET | Python, Software Development, Robotics and Automation"
