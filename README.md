@@ -4,6 +4,10 @@
   <img src="./assets/profile-banner.png" width="100%" alt="Hossain Ahmed - CUET Engineering Profile" />
 </p>
 
+<p>
+  <img src="./github-banner.png" alt="Hossain Ahmed - Mechatronics & Industrial Engineering, CUET" width="100%">
+</p>
+
 <h2 align="center">
   Mechatronics & Industrial Engineering Student @ CUET
 </h2>
