@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="./github-profile-banner.png"
+    src="./assets/github-profile-banner.png"
     alt="Hossain Ahmed | Mechatronics & Industrial Engineering at CUET | Python, Software Development, Robotics and Automation"
     width="100%"
   />
